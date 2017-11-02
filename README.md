@@ -1,3 +1,20 @@
+## Programming assignment of P. Bauermeister
+
+My work:
+
+File               | Meaning
+-------------------|-----------------------------------------------------------
+load_data.R        | R code for reading the data, common to each other R file
+plot1.png, plot1.R | Plot 1 - Image file, and R code that constructs it
+plot2.png, plot2.R | Plot 2 - Image file, and R code that constructs it
+plot3.png, plot3.R | Plot 3 - Image file, and R code that constructs it
+plot4.png, plot4.R | Plot 4 - Image file, and R code that constructs it
+
+
+Original README content follows:
+
+----------
+
 ## Introduction
 
 This assignment uses data from
